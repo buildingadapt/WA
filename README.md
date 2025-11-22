@@ -3,7 +3,7 @@
 
 Buildings and their occupants are already feeling the effects of climate change: more frequent service disruptions from system failures, greater thermal stress from overheating, and rising maintenance and insurance costs. This research develops a dedicated suite of technical guidelines and tools to support climate-resilient design and adaptation for government buildings across Western Australia. Drawing on international best practice and grounded in local case studies, it delivers practical, actionable guidance that project teams can apply immediately. The outcome is a clear pathway for design engineers and project managers to integrate climate resilience into every stage of project delivery.
 
-<img width="894" height="539" alt="image" src="https://github.com/user-attachments/assets/c8b08a33-0764-4c2d-abfe-5381b7ada60b" />
+<img width="447" height="270" alt="image" src="https://github.com/user-attachments/assets/c8b08a33-0764-4c2d-abfe-5381b7ada60b" />
 
 ## Guidelines and Tools
 
