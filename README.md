@@ -1,12 +1,12 @@
 
-# Technical Guideline 050 
+# Adapting Buildings to Climate Change in Western Australia 
 
-Technical Guideline 50 (TG050) represents a pioneering initiative to establish a dedicated set of technical guidelines and tools that support climate resilience and adaptation in government buildings across Western Australia. Grounded in extensive research into international best practices and informed by local case studies, TG050 provides actionable guidance and practical tools for project teams. Its purpose is to enable the design, delivery, and long-term operation of buildings that are capable of withstanding extreme climate hazards and maintaining resilience throughout their lifecycle.
+Buildings and their occupants are already feeling the effects of climate change: more frequent service disruptions from system failures, greater thermal stress from overheating, and rising maintenance and insurance costs. This research develops a dedicated suite of technical guidelines and tools to support climate-resilient design and adaptation for government buildings across Western Australia. Drawing on international best practice and grounded in local case studies, it delivers practical, actionable guidance that project teams can apply immediately. The outcome is a clear pathway for design engineers and project managers to integrate climate resilience into every stage of project delivery.
 
+<img width="894" height="539" alt="image" src="https://github.com/user-attachments/assets/c8b08a33-0764-4c2d-abfe-5381b7ada60b" />
 
 ## Guidelines and Tools
 
- - [Draft for Comments](https://buildingadapt.github.io/TG50/Draft%202%20TG050_18082025.pdf) 
  - [Climate Resilience Assessment Tool](https://buildingadapt.github.io/TG50/Climate_Resilience_Assessment.xlsx)
  - [Climate Resilience Rating Tool](https://buildingadapt.github.io/TG50/Climate_Resilience_Ratings.xlsx)
 
