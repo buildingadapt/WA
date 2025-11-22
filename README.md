@@ -7,8 +7,8 @@ Buildings and their occupants are already feeling the effects of climate change:
 
 ## Guidelines and Tools
 
- - [Climate Resilience Assessment Tool](https://buildingadapt.github.io/TG50/Climate_Resilience_Assessment.xlsx)
- - [Climate Resilience Rating Tool](https://buildingadapt.github.io/TG50/Climate_Resilience_Ratings.xlsx)
+ - [Climate Resilience Assessment Tool](https://buildingadapt.github.io/WA/Climate_Resilience_Assessment.xlsx)
+ - [Climate Resilience Rating Tool](https://buildingadapt.github.io/WA/Climate_Resilience_Ratings.xlsx)
 
  
 
