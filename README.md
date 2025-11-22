@@ -24,7 +24,9 @@ Technical Guideline 50 (TG050) represents a pioneering initiative to establish a
 
 - [Count of Hot Days 2030/2050 Map](https://qgiscloud.com/makohz/WA_Climate_Adaptation_Building_V3cloud/)
 
-![image](https://github.com/user-attachments/assets/3cb8a1c3-26d7-425f-b1e6-d23647ac78ad)
+<img width="574" height="848" alt="image" src="https://github.com/user-attachments/assets/ef4b1914-d6a2-47a7-8c61-671be66909eb" />
+<img width="358" height="742" alt="image" src="https://github.com/user-attachments/assets/1d178a9f-dcde-4520-b2ab-e6e0453d3d35" />
+
 
 ## Climate Resilience Rating
 
