@@ -43,6 +43,7 @@ Buildings and their occupants are already feeling the effects of climate change:
 ## Contact
 
 Please contact [@Fred G](https://gbuilding.github.io/fred) at Fredcgao@gmail.com for support or if you have any feedback.
+
 Last update: 22nd Nov 2025
 
 
