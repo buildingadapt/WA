@@ -42,15 +42,8 @@ Buildings and their occupants are already feeling the effects of climate change:
 
 ## Contact
 
-Please contact [@Fred G](https://gbuilding.github.io/fred) at Fred.Gao@dohw.wa.gov.au or BCBuildingResearch@dohw.wa.gov.au for support or if you have any feedback.
-
-
-## Acknowledgements
-
- - [Depart of Housing and Works WA](https://www.wa.gov.au/organisation/department-of-finance)
- - [Cyclone Testing Station @JCU](https://www.jcu.edu.au/cyclone-testing-station)
- - [Australia Building Codes Board](https://www.abcb.gov.au/)
-
+Please contact [@Fred G](https://gbuilding.github.io/fred) at Fredcgao@gmail.com for support or if you have any feedback.
+Last update: 22nd Nov 2025
 
 
 
