@@ -24,7 +24,7 @@ Buildings and their occupants are already feeling the effects of climate change:
 
 - [Count of Hot Days 2030/2050 Map](https://qgiscloud.com/makohz/WA_Climate_Adaptation_Building_V3cloud/)
 
-<img width="287" height="424" alt="image" src="https://github.com/user-attachments/assets/ef4b1914-d6a2-47a7-8c61-671be66909eb" />
+![image](https://github.com/user-attachments/assets/ef4b1914-d6a2-47a7-8c61-671be66909eb)
 <img width="179" height="371" alt="image" src="https://github.com/user-attachments/assets/1d178a9f-dcde-4520-b2ab-e6e0453d3d35" />
 
 
