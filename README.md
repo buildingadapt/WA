@@ -7,7 +7,7 @@ Buildings and their occupants are already feeling the effects of climate change:
 
 ## Guidelines and Tools
 
- - [Adapting Buildings to Climate Change](https://buildingadapt.github.io/WA/Draft%202%20TG050_18082025.pdf)
+ - [Adapting Buildings to Climate Change](https://buildingadapt.github.io/WA/Draft%203%20TG050_18082025.pdf)
  - [Adaptating Buildings to Climate Change - Heat Resilience](https://buildingadapt.github.io/WA/Heat%20TG%20v4.pdf)
  - [Climate Resilience Assessment Tool](https://buildingadapt.github.io/WA/Climate_Resilience_Assessment.xlsx)
  - [Climate Resilience Rating Tool](https://buildingadapt.github.io/WA/Climate_Resilience_Ratings.xlsx)
